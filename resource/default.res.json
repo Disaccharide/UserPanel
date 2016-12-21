@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,魔杖_jpg,magic_png,joker_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "魔杖_jpg",
+			"type": "image",
+			"url": "assets/魔杖.jpg"
+		},
+		{
+			"name": "magic_png",
+			"type": "image",
+			"url": "assets/magic.png"
+		},
+		{
+			"name": "joker_png",
+			"type": "image",
+			"url": "assets/joker.png"
+		}
+	]
+}
